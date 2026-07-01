@@ -1,0 +1,13 @@
+<svg width="128" height="128" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tito Santur King Construction">
+  <rect width="64" height="64" rx="13" fill="#131311"/>
+  <!-- gable roof -->
+  <path d="M14 29 L32 15.5 L50 29" fill="none" stroke="#E07B2C" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- stacked logs (cabin wall) -->
+  <rect x="18.5" y="31.6" width="27" height="5.1" rx="2.55" fill="#F5F2EC"/>
+  <rect x="18.5" y="39.2" width="27" height="5.1" rx="2.55" fill="#F5F2EC"/>
+  <rect x="18.5" y="46.8" width="27" height="5.1" rx="2.55" fill="#F5F2EC"/>
+  <!-- corner-joint log ends -->
+  <circle cx="18.5" cy="34.15" r="2.9" fill="#E07B2C"/>
+  <circle cx="18.5" cy="41.75" r="2.9" fill="#E07B2C"/>
+  <circle cx="18.5" cy="49.35" r="2.9" fill="#E07B2C"/>
+</svg>

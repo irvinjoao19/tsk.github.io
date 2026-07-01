@@ -1,0 +1,16 @@
+<svg width="760" height="176" viewBox="0 0 380 88" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tito Santur King Construction LLC">
+  <!-- icon -->
+  <g transform="translate(8,12)">
+    <rect width="64" height="64" rx="13" fill="#131311"/>
+    <path d="M14 29 L32 15.5 L50 29" fill="none" stroke="#E07B2C" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="18.5" y="31.6" width="27" height="5.1" rx="2.55" fill="#F5F2EC"/>
+    <rect x="18.5" y="39.2" width="27" height="5.1" rx="2.55" fill="#F5F2EC"/>
+    <rect x="18.5" y="46.8" width="27" height="5.1" rx="2.55" fill="#F5F2EC"/>
+    <circle cx="18.5" cy="34.15" r="2.9" fill="#E07B2C"/>
+    <circle cx="18.5" cy="41.75" r="2.9" fill="#E07B2C"/>
+    <circle cx="18.5" cy="49.35" r="2.9" fill="#E07B2C"/>
+  </g>
+  <!-- wordmark -->
+  <text x="88" y="40" font-family="Archivo, 'Arial Black', sans-serif" font-weight="800" font-size="26" letter-spacing="0.5" fill="#131311">TITO SANTUR KING</text>
+  <text x="89" y="62" font-family="'IBM Plex Mono', monospace" font-weight="500" font-size="12.5" letter-spacing="4.2" fill="#C4611D">CONSTRUCTION LLC</text>
+</svg>
